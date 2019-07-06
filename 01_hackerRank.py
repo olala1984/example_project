@@ -14,4 +14,5 @@ def is_leap(year):
     return leap
 
 #year = int(input())
+#input result
 print(is_leap(2400))
