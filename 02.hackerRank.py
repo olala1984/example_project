@@ -10,6 +10,7 @@
 ##        break;
 ##print(max)
 
+
 students = []
 set_score = set()
 for i in range(int(input('How many students: '))):
